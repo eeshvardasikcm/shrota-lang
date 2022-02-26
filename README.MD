@@ -8,3 +8,5 @@ The colon (":") and the double colon ("::") operators are not supported and are 
 RenderScript has become depricated as of Android 12. The creator of shrota-lang, Eeshvar Das (Erik Douglas Ward) currently only has access to develop shrota-lang using only a x86-64, ARM, Android 12+ and Windows 10+ environment.
 ## Ethics principles
 shrota-lang may only be used in an ethical manner. shrota-lang may not be used for warfare or in any way that damages others.
+## Shrota language is a proprietary language
+At this time, public GitHub sponsorship paid directly to this eeshvardasikcm GitHub repository is the only way to ethically acquire and use shrota-lang.
