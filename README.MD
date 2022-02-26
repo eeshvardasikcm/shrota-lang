@@ -3,7 +3,7 @@ shrota-lang is a new language created on February, 25 2022. Shrota language is b
 ## Small differences from rust language
 Shrota language does not use the "let" keyword ambiguously. The English language allows the word "let" to be used in any form of speech or writing.
 In Shrota language "let" is removed and replaced with "que", meaning "query for allocation permissions and then allocate if permitted".
-The colon double colon ("::") operator is not supported and is replaced with the lambda syntax.
+The double colon ("::") operator is not supported and is replaced with the lambda syntax.
 ## Developed for x86-64 and ARM on Android 12+ and Windows 10+
 RenderScript has become depricated as of Android 12. The creator of shrota-lang, Eeshvar Das (Erik Douglas Ward) currently only has access to develop shrota-lang using only a x86-64, ARM, Android 12+ and Windows 10+ environment.
 ## Ethics principles
