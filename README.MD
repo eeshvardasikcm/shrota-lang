@@ -10,3 +10,5 @@ RenderScript has become depricated as of Android 12. The creator of shrota-lang,
 shrota-lang may only be used in an ethical manner. shrota-lang may not be used for warfare or in any way that damages others.
 ## Shrota language is a proprietary language
 At this time, public GitHub sponsorship paid directly to this eeshvardasikcm GitHub repository is the only way to ethically acquire permissions to use shrota-lang. GitHub Sponsorship is pending.
+## shrota-lang is currently under development and has no stable or beta release
+Earliest expected release of beta is mid March as I have to pay for bandpass to download the necessary dependencies.
