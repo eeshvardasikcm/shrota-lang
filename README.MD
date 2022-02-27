@@ -7,7 +7,9 @@ In Shrota language "let" is removed and replaced with "que", as in 'queue' memor
 
 que s: String = "characters allocation".
 
-The double colon ("::") operator is not supported and is replaced with the lambda syntax.
+The double colon ("::") operator is not supported and is replaced with the lambda "->" symbol when at least one a-Z char surrounding it.
+
+(Nadi::Yoga) becomes (Nadi->Yoga)
 ## Developed for x86-64 and ARM on Android 12+ and Windows 10+
 RenderScript has become depricated as of Android 12. The creator of shrota-lang, Eeshvar Das (Erik Douglas Ward) currently only has access to develop shrota-lang using only a x86-64, ARM, Android 12+ and Windows 10+ environment.
 ## Ethics principles
