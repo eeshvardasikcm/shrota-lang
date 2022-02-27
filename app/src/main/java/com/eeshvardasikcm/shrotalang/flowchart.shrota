@@ -1,15 +1,31 @@
-// This flowchart shrota class is in loose template format at first.
-//
-// Good ethics and no warfare are the current standards inside
-// Shrota flow charts.
-//
-// For example, I am currently using a shrota flowchart to
-// keep track of my com.eeshvardasikcm devops with paths leading out
-// of the devops flow chart back into what I need to do for my
-// ayurveda and dinacharya. Generally speaking ayurveda is automatically
-// of good ethics. It's nearly impossible to practice yoga without the
-// dedication to improve ones own ethics and the ethics of others.
-//
+/**
+* This flowchart shrota class is in loose template format at first.
+*
+* Good ethics and no warfare are the current standards inside
+* Shrota flow charts.
+*
+* For example, I am currently using a shrota flowchart to
+* keep track of my com.eeshvardasikcm devops with paths leading out
+* of the devops flow chart back into what I need to do for my
+* ayurveda and dinacharya. Generally speaking ayurveda is automatically
+* of good ethics. It's nearly impossible to practice yoga without the
+* dedication to improve ones own ethics and the ethics of others.
+*
+* FAQ:
+* Q: If the Shrotas in Ayurveda are meant to maintain good flow, then
+* why is Shrota Language not easier to write in than rust?
+* A: Because on of the principles of coding the Eeshvar Das way is
+* knowing the difference between man and machine. The purpose of the
+* ShrotaFlowChart class is to help remind while coding that one needs to
+* often take breaks to do ayurveda or yoga for their own, and others
+* health and welfare.
+*
+* When it comes to humanitarianism and spiritual advancement, you are
+* in or you are out. For this reason I am forcing the use of
+* ShrotaFlowChart Class at top level of every shrota app or class. Writing
+* in String format is helpful for keeping the mind on what is humane.
+*
+ */
 public ShrotaFlowChart {
     que step[]: String[8]()
 
