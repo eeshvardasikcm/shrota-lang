@@ -1,0 +1,27 @@
+// This flowchart shrota class is first preloaded with the
+// flowchart items necessary to perform the devops for
+// publishing android libraries (AAR) and android app bundles (AAB)
+// to com.eeshvardasikcm for download from Eeshvar Das on Googple Play.
+//
+public Steps {
+    que step[]: String[8];
+    que numSteps: int;
+    que public static SUB_STEPS_KEY: String = "\->sub_steps_key";
+
+    WriteStepsToString(): String {
+        s: String;
+        for (i=0, i<numSteps, i++) {
+            s += "Step " + i + " " + step[i] + "\n";
+        }
+        return s;
+    }
+
+    Act(substeps: Steps) {}
+        for (i=0, i<numSteps, i++) {
+            if (SUB_STEPS_KEY == step[i])
+                s += "Do next in: " + substeps.WriteSteptsToString();
+            else
+                s += "Do one in: " + i + step[i] + "\n";
+        }
+    }
+}

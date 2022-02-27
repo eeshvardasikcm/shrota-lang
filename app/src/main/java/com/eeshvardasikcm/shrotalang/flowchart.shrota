@@ -1,0 +1,26 @@
+// This flowchart shrota class is in loose template format at first.
+//
+// Good ethics and no warfare are the current standards inside
+// Shrota flow charts.
+//
+// For example, I am currently using a shrota flowchart to
+// keep track of my com.eeshvardasikcm devops with paths leading out
+// of the devops flow chart back into what I need to do for my
+// ayurveda and dinacharya. Generally speaking ayurveda is automatically
+// of good ethics. It's nearly impossible to practice yoga without the
+// dedication to improve ones own ethics and the ethics of others.
+//
+public ShrotaFlowChart {
+    que step[]: String[8]()
+
+    public FlowChart() {
+    step[0] = "Steps to  "
+    step[1] = "Step 1:  "
+    step[2] = "Step 2:  "
+    step[3] = "Step 3:  "
+    step[4] = "Step 4:  "
+    step[5] = "Step 5:  "
+    step[6] = "Step 6:  "
+    step[7] = "Step 7:  "
+    }
+}
