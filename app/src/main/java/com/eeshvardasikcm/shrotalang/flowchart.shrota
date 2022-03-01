@@ -39,7 +39,7 @@
 * shrota-lang is more human friendly language than rust.
  */
 public ShrotaFlowChart {
-    que step[]: String[8]()
+    que step[]: String[9]()
 
     public FlowChart() {
     step[0] = "Steps to  "
