@@ -20,8 +20,8 @@
 * of good ethics. It's nearly impossible to practice yoga without the
 * dedication to improve ones own ethics and the ethics of others.
 *
-* FAQ:
-* Q: If the Shrotas in Ayurveda are meant to maintain good flow, then
+*
+* FAQ: Q: If the Shrotas in Ayurveda are meant to maintain good flow, then
 * why is Shrota Language not easier to write in than rust?
 * A: Because on of the principles of coding the Eeshvar Das way is
 * knowing the difference between man and machine. The purpose of the
@@ -34,6 +34,9 @@
 * ShrotaFlowChart Class at top level of every shrota app or class. Writing
 * in String format is helpful for keeping the mind on what is humane.
 *
+* FAQ: Q: Rust is so amazing! Why would I use rust?
+* A: Machines typically don't notice whether it's day or night.
+* shrota-lang is more human friendly language than rust.
  */
 public ShrotaFlowChart {
     que step[]: String[8]()

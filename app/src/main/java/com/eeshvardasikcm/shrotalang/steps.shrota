@@ -16,6 +16,7 @@ public Steps {
     que step[]: String[8];
     que numSteps: int;
     que public static SUB_STEPS_KEY: String = "\->sub_steps_key";
+    que public static SHROTA_CHECK_KEY: String = "\->shrota_check_key";
 
     WriteStepsToString(): String {
         s: String;

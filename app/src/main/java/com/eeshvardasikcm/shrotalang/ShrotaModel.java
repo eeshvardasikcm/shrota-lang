@@ -10,20 +10,19 @@
 package com.eeshvardasikcm.shrotalang;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class ShrotaModel {
 
+    /**
+     * ShrotaModel holds the model for the Shrota Language.
+     * Sometimes some implementation ends up here during the
+     * shrota-lang creation process that is moved elsewhere.
+     */
     public ShrotaModel () {
-        String shrotaFile;
-        ArrayList<ClassImplementation> classesImplemented =
-                new ArrayList<ClassImplementation>();
 
-        for (ClassImplementation classImplementation : classesImplemented) {
-            String.join(" ",
-                    classImplementation.accessAndName,
-                    "extends ShrotaFlowChart",
-                    classImplementation.codeBlock
-            );
-        }
     }
+    private ArrayList<ClassImplementation> classesImplemented = new ArrayList<ClassImplementation>();
+
 }

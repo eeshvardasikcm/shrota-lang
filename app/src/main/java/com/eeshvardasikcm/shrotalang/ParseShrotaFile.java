@@ -10,4 +10,5 @@
 package com.eeshvardasikcm.shrotalang;
 
 public class ParseShrotaFile {
+    private String shrotaFile;
 }
