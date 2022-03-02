@@ -23,5 +23,10 @@ public class BlockTranslate {
                             "subStepsInFlowChart.add(newStep);",
                     defStep.getNewStep()
             );
-        }    }
+        }
+        for (Comparsions comparison : GetComparisonsImplemented()) {
+            String.join(" ",
+                    "advanced_comparison_translation_key");
+        }
+    }
 }
