@@ -52,6 +52,13 @@ public class BlockDiscovery {
      * code writers flexibility to choose to acknowledge
      * only that a decision needs to be made
      * without getting into the details.
+     *
+     * possible usage form:
+     * que compare a with b;
+     * result of this usage:
+     * usage is in line with subtle use of the english language and
+     * allows shrota-lang to decide that
+     * it's not a good time or place to compare a with b.
      */
     private boolean SearchForShrotaComparisonPattern(
         String sectionOfShrotaCode
